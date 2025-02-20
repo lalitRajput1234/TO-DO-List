@@ -79,3 +79,9 @@ Checked todos will have a strikethrough effect.
 
 This app provides a minimal and efficient way to manage daily tasks using React Hooks and Local Storage.
 
+#Challenges I faced during made this todo are:-
+1. suppose when i add some items in the list and then i reload the page the whole list became empty to overcome this i used local storage by the use of local storage the data is saved locally and then  i reload the page list is  not became empty.
+2. CRUD operations are not applied easily in the list so i used UUID(universely uniqely identifier) which provide unique and stable keys due to which performance are became better and also debugging became easier.
+
+   
+
